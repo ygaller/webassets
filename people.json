@@ -1,0 +1,42 @@
+{
+    "total": 5,
+    "contacts": [
+        {
+            "name": "Yair Lapid",
+            "mobile": "050-1234567",
+            "email": "Yair.Lapid@leadspace.com",
+            "image": "images/yair.jpg",
+            "score": 1.8
+        },
+        {
+            "name": "Bibi Netanyahu",
+            "mobile": "051-2453234",
+            "email": "Bibi@gmail.com",
+            "image": "images/bibi.jpg",
+            "score": 6.3
+        },
+        {
+            "name": "Tzipi Livni",
+            "mobile": "052-5243323",
+            "email": "Tzipi@yahoo.com",
+            "image": "images/tzipi.jpg",
+            "score": 4.2
+        },
+        {
+            "name": "Pamela Anderson",
+            "mobile": "054-5642212",
+            "email": "Pamela@gmail.co.il",
+            "image": "images/pamela.jpg",
+            "score": 9.1
+        },
+        {
+            "name": "Dubi Gal",
+            "mobile": "057-2232223",
+            "email": "ShubiDubi@hotmail.com",
+            "image": "images/dubi.jpg",
+            "score": 2.1
+        }
+
+
+    ]
+}
